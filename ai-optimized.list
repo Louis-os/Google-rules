@@ -1,5 +1,7 @@
 payload:
 
+# ===== AI =====
+
 # Ai general rules
 
 DOMAIN,api.statsig.com
@@ -28,8 +30,6 @@ DOMAIN,production.museai.com
 DOMAIN,connect.facebook.net
 DOMAIN,meta-ohttp-config-prod.fastly-edge.com
 DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
-DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,fbcdn.net
 
 # Anthropic/Claude
 
@@ -77,22 +77,6 @@ DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,clients6.google.com
 DOMAIN-SUFFIX,clients4.google.com
 DOMAIN-SUFFIX,googleusercontent.com
-
-# Google 邮箱/搜索/登录
-
-DOMAIN,mail.google.com
-DOMAIN-SUFFIX,gmail.com
-DOMAIN,www.google.com
-DOMAIN,google.com
-DOMAIN,accounts.google.com
-DOMAIN,myaccount.google.com
-
-# YouTube
-
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,youtube-nocookie.com
 
 # JetBrains AI
 
@@ -172,6 +156,24 @@ DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,manuscdn.com
 
+# ===== 常用软件 =====
+
+# Google 邮箱/搜索/登录
+
+DOMAIN,mail.google.com
+DOMAIN-SUFFIX,gmail.com
+DOMAIN,www.google.com
+DOMAIN,google.com
+DOMAIN,accounts.google.com
+DOMAIN,myaccount.google.com
+
+# YouTube
+
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,youtube-nocookie.com
+
 # X (Twitter)
 
 DOMAIN-SUFFIX,x.com
@@ -182,6 +184,11 @@ DOMAIN-SUFFIX,twimg.com
 
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
+
+# Facebook
+
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
 
 # Instagram
 
