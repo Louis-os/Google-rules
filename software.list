@@ -1,0 +1,49 @@
+payload:
+
+# Google 邮箱/搜索/登录
+
+DOMAIN,mail.google.com
+DOMAIN-SUFFIX,gmail.com
+DOMAIN,www.google.com
+DOMAIN,google.com
+DOMAIN,accounts.google.com
+DOMAIN,myaccount.google.com
+
+# YouTube
+
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,youtube-nocookie.com
+
+# X (Twitter)
+
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+
+# WhatsApp
+
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+
+# Facebook
+
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
+
+# Instagram
+
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+
+# Discord
+
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discord.gg
+
+# Telegram
+
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,t.me
