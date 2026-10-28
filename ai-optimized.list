@@ -87,6 +87,13 @@ DOMAIN,google.com
 DOMAIN,accounts.google.com
 DOMAIN,myaccount.google.com
 
+# YouTube
+
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,youtube-nocookie.com
+
 # JetBrains AI
 
 DOMAIN-SUFFIX,grazie.ai
@@ -164,3 +171,30 @@ DOMAIN-SUFFIX,hf.space
 
 DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,manuscdn.com
+
+# X (Twitter)
+
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+
+# WhatsApp
+
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+
+# Instagram
+
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+
+# Discord
+
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discord.gg
+
+# Telegram
+
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,t.me
